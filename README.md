@@ -8,9 +8,9 @@ npm install 3amyah
 
 ## Usage
 ```js
-const 3amyah = require("3amyah");
+const _3amyah = require("3amyah");
 
-3amyah.search("شكو ماكو").then(words => {
+_3amyah.search("شكو ماكو").then(words => {
   console.log(words);
 })
 ```
